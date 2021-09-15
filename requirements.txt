@@ -1,0 +1,4 @@
+google-api-python-client==2.15.0
+gspread==4.0.1
+black==21.7b0
+pylint==2.10.2
