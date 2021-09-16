@@ -1,6 +1,6 @@
 # Buscando informações de canais no YouTube com Python
 
-Neste tutorial vamos utilizar o Python 3 para criar uma aplicação Python e realizar scrape de dados de canais e vídeos no YouTube, ou seja, buscar informações relevantes de forma automatizada e armazenar para análise posterior.
+Neste tutorial vamos criar uma aplicação Python e realizar scrape de dados de canais e vídeos no YouTube, ou seja, buscar informações relevantes de forma automatizada e armazenar para análise posterior.
 
 **Playlist:** [Buscando informações de canais do YouTube com Python](https://www.wazana.dev/playlist/buscando-informacoes-de-canais-do-youtube-com-python).
 
