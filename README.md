@@ -46,6 +46,15 @@ python3 -m pip install requirements.txt
 python -m pip install requirements.txt
 ```
 
+## Tecnologias utilizadas
+
+- [Google Cloud PLatform (Console)](https://console.cloud.google.com)
+- [YouTube Data API](https://developers.google.com/youtube/v3)
+- [Google Sheets API](https://developers.google.com/sheets/api)
+- [Google Drive API](https://developers.google.com/drive)
+- [gspread](https://docs.gspread.org/en/v4.0.1/)
+- [Google API Python Client](https://googleapis.github.io/google-api-python-client/docs/dyn/)
+
 ## Autor
 
 **Arthur Viana**
